@@ -2,6 +2,8 @@
 
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-all-in-one-pre-training-via/object-detection-on-coco)](https://paperswithcode.com/sota/object-detection-on-coco?p=towards-all-in-one-pre-training-via)
 
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-all-in-one-pre-training-via/object-detection-on-coco-minival)](https://paperswithcode.com/sota/object-detection-on-coco-minival?p=towards-all-in-one-pre-training-via)
+
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-all-in-one-pre-training-via/semantic-segmentation-on-ade20k)](https://paperswithcode.com/sota/semantic-segmentation-on-ade20k?p=towards-all-in-one-pre-training-via)[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-all-in-one-pre-training-via/image-classification-on-imagenet)](https://paperswithcode.com/sota/image-classification-on-imagenet?p=towards-all-in-one-pre-training-via)
 
 This repository is an official implementation of the paper [Towards All-in-one Pre-training via Maximizing Multi-modal Mutual Information](https://arxiv.org/abs/2211.09807).
